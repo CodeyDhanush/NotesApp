@@ -21,6 +21,3 @@
 - **Core Concepts:** File I/O, Exception Handling, OOP
 - **Classes Used:** `FileWriter`, `FileReader`, `BufferedReader`
 
----
-
-## 📂 Project Structure
